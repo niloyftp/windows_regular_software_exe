@@ -7,3 +7,5 @@
 <a href="https://www.voidtools.com/Everything-1.4.1.1024.x86-Setup.exe">Download Everything Exe The Best Windows File Finder</a>
 
 <a href="https://www.savardsoftware.com/downloads/ttsetup.exe">Click To Download Trubo Top</a>
+
+<a href="https://cdn-fastly.obsproject.com/downloads/OBS-Studio-26.0.2-Full-Installer-x64.exe">Click To Download OBS 26.0</a>
